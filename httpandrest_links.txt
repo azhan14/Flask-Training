@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=ChwSD5e0Qs0
+https://www.youtube.com/watch?v=JuFdz8f-cT4
+http://flask.pocoo.org/docs/1.0/quickstart/
+http://flask.pocoo.org/docs/1.0/patterns/errorpages/
+http://flask.pocoo.org/docs/1.0/tutorial/templates/
